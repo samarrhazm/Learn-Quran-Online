@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://learn-quran-online-three.vercel.app/sitemap.xml
